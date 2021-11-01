@@ -1,0 +1,54 @@
+.main-style {
+    text-align: center;
+    color:Magenta;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.margin{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-right: 0%;
+    margin-left: 0%;
+}
+#Color-change1 {
+    background-image: linear-gradient(to right, Magenta,orange);
+    border-color: blue;
+}
+#Color-change {
+    background-image: linear-gradient(to bottom right, rgb(4, 4, 41),rgb(25, 82, 116));
+}
+.wholetable-style {
+    width: 700px;
+    height: 50px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.toptable{
+    background-color: #FFC0CB;
+    color: white;
+}
+.table-color {
+  background-color: white;
+}
+.align{
+    text-align: right;
+}
+#text {
+    text-decoration: none;
+    color: black;
+}
+.cellwidth{
+    width:35%;
+}
+.shadow {
+    text-shadow: 1px 2px grey;
+    color: grey;
+}
+  
+.center {
+    margin-left: auto; 
+    margin-right: auto;
+}
+.text-align {
+    text-align: right;
+}
